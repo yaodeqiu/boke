@@ -1,0 +1,2 @@
+bin 调试 package.json有个 npm start 默认启动debug(调试)模式
+npm install -g supervisor//修改代码自动重启服务器 第一次启动 supervisor app.js
